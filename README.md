@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Gensyn-ai-Rl-Swarm_Guide {Mac/Linux} 💻
+# 💻 Gensyn-ai-Rl-Swarm_Guide {Mac/Linux} 
 
 </div>
 
@@ -14,7 +14,7 @@
 * Open Your Vps
 
 ```
-ssh username@ip
+termius
 ```
 
 # Pre-Requirements 🛠
