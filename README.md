@@ -74,12 +74,7 @@ brew install node && corepack enable && npm install -g yarn
 
 ```
 node -v
-```
-```
 npm -v
-```
-
-```
 yarn -v
 ```
 
